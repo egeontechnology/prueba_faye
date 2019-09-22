@@ -1,3 +1,7 @@
+
+/*
+    Creamos y levantamos un servidor de faye que escucha en el puerto 8000
+ */
 let http = require('http'),
     faye = require('faye');
 
